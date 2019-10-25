@@ -2,7 +2,8 @@
 
 ## 1.Hgo1.0
 
- 	Find whether the  something in images are different, one of the important factor is that background is always different, so how to git rid of the background is significant.
+ 	Find whether the  something in images are different, one of the important factor is that background is always different, 
+  so how to git rid of the background is significant.
 
 ## 2.Hgo2.0
 
