@@ -4,11 +4,9 @@
 
 this code is based on SSD, and make some modification
 
-the 
+the  trained module are two:one in pre-trained weight about vgg16, another is trained for this task named hgo.pth
 
-[weights]: https://pan.baidu.com/s/1JCG5pF1QHNAsW-B9f5RStw
-
- (password:9jaj) are two:one in pre-trained weight about vgg16, another is trained for this task named hgo.pth
+https://pan.baidu.com/s/10FhqwDrUKA585ZVc_mWK9A （k05j ）
 
 eval is used to save the result of every input, the confidence and the coordinate of the boxes
 
