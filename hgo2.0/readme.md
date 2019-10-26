@@ -22,24 +22,5 @@ the format of input is similarly to voc, so the dataset code is based on VOCdata
 
 可以用给的几个example来测试一下：
 
-给的三组图片是效果比较好的，
+结果见result
 
-![1572069899130](C:\Users\64641\AppData\Roaming\Typora\typora-user-images\1572069899130.png)
-
-![1572069909316](C:\Users\64641\AppData\Roaming\Typora\typora-user-images\1572069909316.png)
-
-
-
-因为训练数据比较少，也没有另外加其他的trick，所以大部分效果是可以检测出来，但是box的尺寸不太正确，以及位置不是很准确
-
-![1572069924375](C:\Users\64641\AppData\Roaming\Typora\typora-user-images\1572069924375.png)
-
-![1572069928628](C:\Users\64641\AppData\Roaming\Typora\typora-user-images\1572069928628.png)
-
-![1572069951108](C:\Users\64641\AppData\Roaming\Typora\typora-user-images\1572069951108.png)
-
-当然还有一些效果不好的
-
-![1572069964256](C:\Users\64641\AppData\Roaming\Typora\typora-user-images\1572069964256.png)
-
-![1572069968229](C:\Users\64641\AppData\Roaming\Typora\typora-user-images\1572069968229.png)
